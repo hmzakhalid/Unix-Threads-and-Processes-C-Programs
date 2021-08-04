@@ -1,1 +1,1 @@
-# Multithreading-in-C++-Programs
+# Multithreading in C++ Programs
